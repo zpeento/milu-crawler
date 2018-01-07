@@ -19,6 +19,7 @@
   "homepage": "https://github.com/zpeento/milu-crawler#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "mongodb": "^3.0.0-rc0",
     "superagent": "^3.8.1"
   }
 }
